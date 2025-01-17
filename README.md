@@ -1,6 +1,6 @@
-%Project Title: Alzheimer Detection
-%Author: Nahid Sami
-%Contact: nahidsami187@gmail.com 
+Project Title: Alzheimer Detection
+Author: Nahid Sami
+Contact: nahidsami187@gmail.com 
 
 the main purpose of this project is to detect Alzheimer by using MRI of patient take image mri and then detect ALZHEIMER AFFECTED patient.
 
